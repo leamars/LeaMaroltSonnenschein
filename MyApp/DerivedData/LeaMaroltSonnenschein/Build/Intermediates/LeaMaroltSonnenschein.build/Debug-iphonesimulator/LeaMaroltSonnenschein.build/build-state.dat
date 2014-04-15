@@ -1,0 +1,799 @@
+TLeaMaroltSonnenschein
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein normal i386
+cCpResource QuattrocentoSans-Bold.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf
+cCompileStoryboard /Users/Lea/Desktop/MyApp/Main.storyboard
+cCopyStringsFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings LeaMaroltSonnenschein/en.lproj/InfoPlist.strings
+cCpResource QuattrocentoSans-Regular.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf
+cCpResource QuattrocentoSans-BoldItalic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf
+cCpResource QuattrocentoSans-Italic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf
+cCompileAssetCatalog /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets
+cProcessInfoPlistFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist
+cGenerateDSYMFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein
+cTouch /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005329F8E600000000000003B4
+t1395259622
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005329F8ED000000000000019E
+t1395259629
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005329F8EF000000000058E0E0
+t1395259631
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005329F8EF00000000005B82F0
+t1395259631
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005329F8EF0000000000446820
+t1395259631
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005329F8EF00000000003599D0
+t1395259631
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005329F8EF00000000002FC3B0
+t1395259631
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005329F8EF000000000004B000
+t1395259631
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005329F8F1000000000088D8C0
+t1395259633
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005329F8F10000000000037680
+t1395259633
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005329F8F2000000000048F720
+t1395259634
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005329F8F2000000000013FD70
+t1395259634
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005329F8F50000000001F1DE10
+t1395259637
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005329F8FE00000000002BC360
+t1395259646
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005329F9040000000000002338
+t1395259652
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005329F905000000000008D370
+t1395259653
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005329F9050000000000392E20
+t1395259653
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000533437D900000000000141F0
+t1395931097
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005329F9050000000000014A80
+t1395259653
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005329F9050000000000033BA0
+t1395259653
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005329F905000000000001CFB0
+t1395259653
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005329F905000000000001B2B0
+t1395259653
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005329F90500000000000C9570
+t1395259653
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005329F9050000000000063280
+t1395259653
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005329F9050000000000008880
+t1395259653
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005329F9050000000000015080
+t1395259653
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005329F90500000000000230F0
+t1395259653
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005329F905000000000000E380
+t1395259653
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005329F9050000000000089380
+t1395259653
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005329F9050000000000017320
+t1395259653
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005329F9050000000000039CD0
+t1395259653
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005329F905000000000000B0B0
+t1395259653
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005329F9050000000000167E80
+t1395259653
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005329F90500000000000106A0
+t1395259653
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005329F905000000000001CE40
+t1395259653
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005329F90500000000000740C0
+t1395259653
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005329F905000000000006CA60
+t1395259653
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005329F905000000000001BAD0
+t1395259653
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005329F9050000000000084A20
+t1395259653
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005329F90A0000000000000ADC
+t1395259658
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005329F90A000000000000514C
+t1395259658
+s20812
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o
+t1397528927
+s62360
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/LeaMaroltSonnenschein.LinkFileList
+c00000000534C995E0000000000000305
+t1397528926
+s773
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o
+t1397528927
+s102784
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o
+t1397529119
+s96264
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o
+t1397528927
+s3520
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_dependencies.txt
+t1397528929
+s919
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_generated_info.plist
+t1397528929
+s777
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch
+t1397528926
+s116116
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app
+t1397529119
+s544
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM
+t1397528929
+s102
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist
+t1397528929
+s1378
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein
+t1397529119
+s83796
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Main.storyboardc
+t1397528928
+s272
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/PkgInfo
+t1397528929
+s8
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf
+t1397528927
+s37296
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf
+t1397528927
+s38424
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf
+t1397528927
+s50872
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf
+t1397528927
+s38236
+
+N/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings
+t1397528927
+s42
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.h
+c00000000534B0D07000000000000012E
+t1397427463
+s302
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m
+c00000000534B0D0700000000000007F0
+t1397427463
+s2032
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets
+c00000000534C988A00000000000004C8
+t1397528714
+s1224
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist
+c00000000534B290E00000000000005F1
+t1397434638
+s1521
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch
+c00000000534B0D070000000000000158
+t1397427463
+s344
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.h
+c00000000534C68720000000000000531
+t1397516402
+s1329
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m
+c00000000534C68720000000000001EB1
+t1397516402
+s7857
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.h
+c00000000534C68630000000000000476
+t1397516387
+s1142
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m
+c00000000534C9A1D00000000000028AA
+t1397529117
+s10410
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/en.lproj/InfoPlist.strings
+c00000000534B0D07000000000000002D
+t1397427463
+s45
+
+N/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m
+c00000000534B0D07000000000000016A
+t1397427463
+s362
+
+N/Users/Lea/Desktop/MyApp/Main.storyboard
+c00000000534C687200000000000047B4
+t1397516402
+s18356
+
+N/Users/Lea/Desktop/MyApp/QuattrocentoSans-Bold.otf
+c0000000051E6E7BC00000000000091B0
+t1374087100
+s37296
+
+N/Users/Lea/Desktop/MyApp/QuattrocentoSans-BoldItalic.otf
+c0000000051E6E7BA0000000000009618
+t1374087098
+s38424
+
+N/Users/Lea/Desktop/MyApp/QuattrocentoSans-Italic.otf
+c0000000051E6E7BA000000000000C6B8
+t1374087098
+s50872
+
+N/Users/Lea/Desktop/MyApp/QuattrocentoSans-Regular.otf
+c0000000051E6E7BA000000000000955C
+t1374087098
+s38236
+
+N/usr/lib/libSystem.B.dylib
+c00000000533437CA000000000000E6D0
+t1395931082
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000533437D80000000000012A00
+t1395931096
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000533437BC000000000002E320
+t1395931068
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000533437CA0000000000021860
+t1395931082
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000533437D8000000000001B620
+t1395931096
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000533437D800000000000BD920
+t1395931096
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000533437D8000000000000A120
+t1395931096
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000533437D8000000000001D550
+t1395931096
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000533437D70000000000014EE0
+t1395931095
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000533437DA0000000000010380
+t1395931098
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000533437DA000000000000C4C0
+t1395931098
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000533437D800000000000357A0
+t1395931096
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000533437D8000000000000C070
+t1395931096
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000533437CA0000000000168D00
+t1395931082
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000533437D80000000000010630
+t1395931096
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000533437D9000000000001DF10
+t1395931097
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000533437CA0000000000075B00
+t1395931082
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000533437CA000000000007CCE0
+t1395931082
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000533437CA00000000000766C0
+t1395931082
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000533437D90000000000044DC0
+t1395931097
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000533437CA0000000000021FA0
+t1395931082
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000533437D9000000000002D920
+t1395931097
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000533437D9000000000001E570
+t1395931097
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000533437D0000000000000CC70
+t1395931088
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000533437D3000000000000C3F0
+t1395931091
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000533437D900000000000199F0
+t1395931097
+s104944
+
+CBuild AST from /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m
+r0
+
+CBuild AST from /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m
+r0
+
+CBuild AST from /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m
+r0
+
+CBuild AST from /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6423a09fd1fcb841^166ca79fd1fcb841^---0#1#1#--18"Check dependencies36"E78026DB-7A5D-4851-8380-F3961EFE87D1-
+
+CCompileAssetCatalog /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets
+s419221727.188135
+e419221729.214995
+r1
+xCompileAssetCatalog
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon29x29@2x.png
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon40x40@2x.png
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon60x60@2x.png
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LaunchImage-700-568h@2x.png
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Assets.car
+o/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"CompileAssetCatalog DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app LeaMaroltSonnenschein/Images.xcassets154"CompileAssetCatalog DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app LeaMaroltSonnenschein/Images.xcassetsfb3e30dfd0fcb841^d40a37e1d0fcb841^-944"/* com.apple.actool.compilation-results *//Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon29x29@2x.png/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon40x40@2x.png/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/AppIcon60x60@2x.png/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LaunchImage-700-568h@2x.png/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Assets.car/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets/0000000000000000^1316"CompileAssetCatalog DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app LeaMaroltSonnenschein/Images.xcassets    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/Images.xcassets36"964738A1-301A-4DD6-A11E-AE4F016E7640-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419221727.000478
+e419221727.094050
+r1
+xCompileC
+xDerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m278"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o LeaMaroltSonnenschein/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler204600dfd0fcb841^831418dfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m0000000000000000^4277"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o LeaMaroltSonnenschein/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Lea/Desktop/MyApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Lea/Desktop/MyApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-generated-files.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-own-target-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-all-target-headers.hmap -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-project-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources/i386 -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -include /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch -MMD -MT dependencies -MF /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.dia -c /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.m -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o36"AA03F970-2C87-4E3C-A276-B4F09940FCC1-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419221727.001549
+e419221727.134392
+r1
+xCompileC
+xDerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.h
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m304"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o LeaMaroltSonnenschein/PageViewControllerHolder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd49c00dfd0fcb841^4d6822dfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m0000000000000000^4355"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o LeaMaroltSonnenschein/PageViewControllerHolder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Lea/Desktop/MyApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Lea/Desktop/MyApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-generated-files.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-own-target-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-all-target-headers.hmap -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-project-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources/i386 -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -include /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch -MMD -MT dependencies -MF /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.d --serialize-diagnostics /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.dia -c /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.m -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o36"84E49718-9CAA-418A-A595-3153D03304F1-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419221919.655342
+e419221919.745702
+r1
+xCompileC
+xDerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.h
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/PageViewControllerHolder.h
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m284"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o LeaMaroltSonnenschein/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler11e1a79fd1fcb841^19e8be9fd1fcb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m0000000000000000^4295"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o LeaMaroltSonnenschein/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Lea/Desktop/MyApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Lea/Desktop/MyApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-generated-files.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-own-target-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-all-target-headers.hmap -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-project-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources/i386 -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -include /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch -MMD -MT dependencies -MF /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.dia -c /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/ViewController.m -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o36"D0387EED-EA96-4286-8B55-CDDBA91EEFDA-
+bE3E6C968-3D42-41C3-8D3B-6B409F88632B
+
+CCompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419221727.000732
+e419221727.045639
+r1
+xCompileC
+xDerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m264"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o LeaMaroltSonnenschein/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf25b00dfd0fcb841^a7af0bdfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m0000000000000000^4235"CompileC DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o LeaMaroltSonnenschein/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Lea/Desktop/MyApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Lea/Desktop/MyApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-generated-files.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-own-target-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-all-target-headers.hmap -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-project-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources/i386 -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -include /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch -MMD -MT dependencies -MF /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.dia -c /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/main.m -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o36"734E5FC2-E24B-4FFF-8A96-F005DC71D3CA-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCompileStoryboard /Users/Lea/Desktop/MyApp/Main.storyboard
+s419221727.179662
+e419221728.704502
+r1
+xCompileStoryboard
+x/Users/Lea/Desktop/MyApp/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"CompileStoryboard Main.storyboard33"CompileStoryboard Main.storyboard3f582edfd0fcb841^b45ab4e0d0fcb841^---0#0#1#-19%DVTDocumentLocation2@47"file:///Users/Lea/Desktop/MyApp/Main.storyboard0000000000000000^796"CompileStoryboard Main.storyboard    cd /Users/Lea/Desktop/MyApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Main.storyboardc /Users/Lea/Desktop/MyApp/Main.storyboard36"CF75D62C-84E0-4B78-8F79-C56EEF15070E-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCopyStringsFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings LeaMaroltSonnenschein/en.lproj/InfoPlist.strings
+s419221727.179923
+e419221727.184835
+r1
+xCopyStringsFile
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings
+xLeaMaroltSonnenschein/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy LeaMaroltSonnenschein/en.lproj/InfoPlist.strings188"CopyStringsFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings LeaMaroltSonnenschein/en.lproj/InfoPlist.strings081f2edfd0fcb841^c2862fdfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/en.lproj/InfoPlist.strings0000000000000000^689"CopyStringsFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj/InfoPlist.strings LeaMaroltSonnenschein/en.lproj/InfoPlist.strings    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/en.lproj -- LeaMaroltSonnenschein/en.lproj/InfoPlist.strings36"A0A0A7CC-D9F6-4553-A49A-CE923586BE64-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCpResource QuattrocentoSans-Bold.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf
+s419221727.177247
+e419221727.179589
+r1
+xCpResource
+xQuattrocentoSans-Bold.otf
+xDerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf159"CpResource QuattrocentoSans-Bold.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otff8702ddfd0fcb841^f0f92ddfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf003430cbdcffdf42^672"CpResource QuattrocentoSans-Bold.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Bold.otf    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Lea/Desktop/MyApp/QuattrocentoSans-Bold.otf /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app36"01C06A11-A246-4AAA-B220-B69009074020-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCpResource QuattrocentoSans-BoldItalic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf
+s419221727.182979
+e419221727.184723
+r1
+xCpResource
+xQuattrocentoSans-BoldItalic.otf
+xDerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf171"CpResource QuattrocentoSans-BoldItalic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf36e92edfd0fcb841^06832fdfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@160"file:///Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf003430cbdcffdf42^690"CpResource QuattrocentoSans-BoldItalic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-BoldItalic.otf    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Lea/Desktop/MyApp/QuattrocentoSans-BoldItalic.otf /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app36"356264AC-AB0A-439A-852F-ADCC0B669F61-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCpResource QuattrocentoSans-Italic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf
+s419221727.185994
+e419221727.188991
+r1
+xCpResource
+xQuattrocentoSans-Italic.otf
+xDerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf163"CpResource QuattrocentoSans-Italic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otfcdae2fdfd0fcb841^916230dfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@156"file:///Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf003430cbdcffdf42^678"CpResource QuattrocentoSans-Italic.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Italic.otf    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Lea/Desktop/MyApp/QuattrocentoSans-Italic.otf /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app36"E921A352-7BCF-451A-9F6B-EAD5EE21C4BB-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CCpResource QuattrocentoSans-Regular.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf
+s419221727.181365
+e419221727.183650
+r1
+xCpResource
+xQuattrocentoSans-Regular.otf
+xDerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf165"CpResource QuattrocentoSans-Regular.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf787d2edfd0fcb841^36042fdfd0fcb841^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf003430cbdcffdf42^681"CpResource QuattrocentoSans-Regular.otf DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/QuattrocentoSans-Regular.otf    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Lea/Desktop/MyApp/QuattrocentoSans-Regular.otf /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app36"323D711A-95F9-403B-9149-1A1A3450AA6B-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CGenerateDSYMFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein
+s419221919.787785
+e419221919.804018
+r1
+xGenerateDSYMFile
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Generate /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM237"GenerateDSYMFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenscheine1b7c99fd1fcb841^0bd5cd9fd1fcb841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM/0000000000000000^839"GenerateDSYMFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app.dSYM36"38BE08F7-8AFA-4CAC-A2CC-3192579CE3F9-
+bE3E6C968-3D42-41C3-8D3B-6B409F88632B
+
+CLd /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein normal i386
+s419221919.749347
+e419221919.784931
+r1
+xLd
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein
+xnormal
+xi386
+d/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/LeaMaroltSonnenschein.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/ViewController.o
+d/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/AppDelegate.o
+d/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/main.o
+d/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/PageViewControllerHolder.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein133"Ld DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein normal i3865befbf9fd1fcb841^49f2c89fd1fcb841^---0#0#1#--1649"Ld DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein normal i386    cd /Users/Lea/Desktop/MyApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator -filelist /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/LeaMaroltSonnenschein.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/Objects-normal/i386/LeaMaroltSonnenschein_dependency_info.dat -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/LeaMaroltSonnenschein36"FE7DE4C6-E948-495E-8561-941779FC1ED5-
+bE3E6C968-3D42-41C3-8D3B-6B409F88632B
+
+CProcessInfoPlistFile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist
+s419221729.215675
+e419221729.218136
+r1
+xProcessInfoPlistFile
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist
+x/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist183"ProcessInfoPlistFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plistbb4637e1d0fcb841^b6d637e1d0fcb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist0000000000000000^1074"ProcessInfoPlistFile DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist    cd /Users/Lea/Desktop/MyApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Info.plist -genpkginfo /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/assetcatalog_generated_info.plist -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app/Info.plist36"A4CBBC5C-EE7A-470A-A66F-AAA573DD8134-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CProcessPCH /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419221726.096936
+e419221726.999304
+r1
+xProcessPCH
+x/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch
+xLeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch301"ProcessPCH DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbef18ded0fcb841^5fd3ffded0fcb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch0000000000000000^4130"ProcessPCH DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Lea/Desktop/MyApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Lea/Desktop/MyApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-generated-files.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-own-target-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-all-target-headers.hmap -iquote /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/LeaMaroltSonnenschein-project-headers.hmap -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources/i386 -I/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/LeaMaroltSonnenschein.build/Debug-iphonesimulator/LeaMaroltSonnenschein.build/DerivedSources -F/Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.d -c /Users/Lea/Desktop/MyApp/LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch -o /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Intermediates/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-bbuzmficojmeqzebjgeccmjnnpli/LeaMaroltSonnenschein-Prefix.pch.pch36"48F73D0D-F725-4119-8C30-FE3FA4A1AB16-
+b5DB7596F-773A-4C9D-9500-0E1FF9A92596
+
+CProcessPCH /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Index/PrecompiledHeaders/LeaMaroltSonnenschein-Prefix-abucdztjinpcnybknlcfbdvoanyv_ast/LeaMaroltSonnenschein-Prefix.pch.pch LeaMaroltSonnenschein/LeaMaroltSonnenschein-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Lea/Desktop/MyApp/DerivedData/LeaMaroltSonnenschein/Build/Products/Debug-iphonesimulator/LeaMaroltSonnenschein.app
+r0
+
